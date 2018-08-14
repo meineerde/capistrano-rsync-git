@@ -10,4 +10,3 @@ module Capistrano
     LICENSE     = "MIT"
   end
 end
-
